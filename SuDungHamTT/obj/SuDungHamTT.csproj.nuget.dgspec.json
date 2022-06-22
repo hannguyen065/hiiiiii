@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\NN\\Documents\\hiiiiii\\PhuongTrinhBac2\\PhuongTrinhBac2.csproj": {}
+    "C:\\Users\\NN\\Documents\\hiiiiii\\SuDungHamTT\\SuDungHamTT.csproj": {}
   },
   "projects": {
-    "C:\\Users\\NN\\Documents\\hiiiiii\\PhuongTrinhBac2\\PhuongTrinhBac2.csproj": {
+    "C:\\Users\\NN\\Documents\\hiiiiii\\SuDungHamTT\\SuDungHamTT.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\NN\\Documents\\hiiiiii\\PhuongTrinhBac2\\PhuongTrinhBac2.csproj",
-        "projectName": "PhuongTrinhBac2",
-        "projectPath": "C:\\Users\\NN\\Documents\\hiiiiii\\PhuongTrinhBac2\\PhuongTrinhBac2.csproj",
+        "projectUniqueName": "C:\\Users\\NN\\Documents\\hiiiiii\\SuDungHamTT\\SuDungHamTT.csproj",
+        "projectName": "SuDungHamTT",
+        "projectPath": "C:\\Users\\NN\\Documents\\hiiiiii\\SuDungHamTT\\SuDungHamTT.csproj",
         "packagesPath": "C:\\Users\\NN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\NN\\Documents\\hiiiiii\\PhuongTrinhBac2\\obj\\",
+        "outputPath": "C:\\Users\\NN\\Documents\\hiiiiii\\SuDungHamTT\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\NN\\AppData\\Roaming\\NuGet\\NuGet.Config",
